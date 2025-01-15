@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "interBayse"
+title                    : "interBayes"
 title_separator          : "-"
 name                     : &name "interBayes"
 description              : &description "N"
@@ -83,8 +83,8 @@ author:
   name             : 
   avatar           : 
   bio              : 
-  location         : "Uppsala University, Sweden"
-  employer         :
+  location         : "Sweden"
+  employer         : "Uppsala University"
   pubmed           : 
   googlescholar    : 
   email            :
