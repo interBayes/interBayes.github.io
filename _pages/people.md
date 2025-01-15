@@ -13,7 +13,7 @@ author_profile: true
 
 <p><a href="https://www.uu.se/en/contact-and-organisation/staff?query=N15-1950">Erik Jansson</a>, Department of Pharmaceutical Biosciences. </p>
 
-<p><a href="https://www.uu.se/en/contact-and-organisation/organisation?query=FF1%3A15">Camilla Johansson</a>, Department of Pharmaceutical Biosciences. </p>
+<p><a href="https://www.uu.se/en/contact-and-organisation/staff?query=N24-1495">Camilla Johansson</a>, Department of Pharmaceutical Biosciences. </p>
 
 <p><a href="https://www.uu.se/en/contact-and-organisation/staff?query=N20-1227">Måns Magnusson</a>, Department of Statistics. </p>
 
