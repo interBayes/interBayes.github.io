@@ -14,7 +14,7 @@ We organise networking events, turorials, workshops and conferences on Bayesian 
 
 ## Motivation
 Bayesian models are being increasingly used across the social and natural sciences to make
-sense of real-world data. We thus view Bayesian inference as an interdisciplinary node that can unite researchers across fields. Hence the name interBayes, where inter stands for interdisciplinary. 
+sense of real-world data. We thus view Bayesian inference as an interdisciplinary node that can unite researchers across fields. Hence the name _interBayes_, where _inter_ stands for interdisciplinary. 
 
 ## Funding
 We are funded by the Centre for Integrated Research on Culture and Society (<a href="https://www.uu.se/centrum/circus">Circus</a>).  
