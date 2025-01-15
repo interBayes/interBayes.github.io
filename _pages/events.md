@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: " "
 permalink: /events/
 author_profile: true
 ---
