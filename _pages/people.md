@@ -5,7 +5,7 @@ permalink: /people/
 author_profile: true
 ---
 
-### Meet the organising team
+### Meet the organising team 
 
 
 
