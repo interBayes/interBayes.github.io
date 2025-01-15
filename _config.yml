@@ -11,14 +11,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
-  name             : ""
-  pronouns         : # example: ""  
-  bio              : ""
-  location         : "Uppsala University"
-  employer         : ""
-  uri              : # URL
-  email            : "" 
+  location         : "Sweden"
+  employer         : "Uppsala University"
+
 
 
  
