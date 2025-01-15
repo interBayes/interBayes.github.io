@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About us
-We are a research network at Uppsala University. Our aim is to unite Bayesian modellers and make Bayesian inference accessible to researchers with diverse backgrounds. 
+We are a research network at Uppsala University. Our aim is to unite Bayesian modellers and to make Bayesian inference accessible to researchers with diverse backgrounds. 
 We organise networking events, turorials, workshops and conferences on Bayesian inference and the probabilistic programming language Stan.  
 
 ## Motivation
