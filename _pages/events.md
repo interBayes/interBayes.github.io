@@ -10,7 +10,7 @@ author_profile: true
 
 <div style="background-color: #f7f7f7; border: 2px solid gray; padding: 20px; margin: 20px;">
   <strong style="color: darkred;">April 2025: Bayesian matchmaking.</strong><br>
-  A networking event held in the CIRCUS observatory at Uppsala University. *More information coming soon.* 
+  A networking event held in the Circus observatory at Uppsala University. *More information coming soon.* 
 </div>
 
 <br>
