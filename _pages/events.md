@@ -8,10 +8,12 @@ author_profile: true
 ## Upcoming events
 
 
-#### April 2025: Bayesian Matchmaking. 
-A networking event held at the CIRCUS observatory. *More information coming soon.* 
+<div style="background-color: #f7f7f7; border: 2px solid gray; padding: 20px; margin: 20px;">
+  <strong style="color: darkred;">April 2025: Bayesian matchmaking.</strong><br>
+  A networking event held at the CIRCUS observatory. *More information coming soon.* 
+</div>
 
-
-
-#### May 2025: An introductory tutorial to Stan. 
-A hands-on tutorial on how to get started with Stan. *More information coming soon.* 
+<div style="background-color: #f7f7f7; border: 2px solid gray; padding: 20px; margin: 20px;">
+  <strong style="color: darkred;">May 2025: An introductory tutorial to Stan.</strong><br>
+  A hands-on tutorial on how to get started with Stan. *More information coming soon.* 
+</div>
