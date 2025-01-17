@@ -17,5 +17,6 @@ author_profile: true
 
 <div style="background-color: #f7f7f7; border: 2px solid gray; padding: 20px; margin: 20px;">
   <strong style="color: darkred;">May 2025: An introductory tutorial to Stan.</strong><br>
-  A hands-on tutorial on how to get started with Stan. Held at Uppsala University.  *More information coming soon.* 
+  A hands-on tutorial on how to get started with Stan held at Uppsala University.  *More information coming soon.* 
 </div>
+
