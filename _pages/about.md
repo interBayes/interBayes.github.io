@@ -16,11 +16,10 @@ We organise networking events, turorials, workshops and conferences on Bayesian 
 Bayesian models are being increasingly used across the social and natural sciences to make
 sense of real-world data. We thus view Bayesian inference as an interdisciplinary node that can unite researchers across fields. Hence the name *interBayes*, where *inter* stands for *interdisciplinary*. 
 
-## Funding
-Our network is funded by the Centre for Integrated Research on Culture and Society (<a href="https://www.uu.se/centrum/circus">Circus</a>).  
-
 ## Contact
 Contact Sara Hamis (see <a href="https://interbayes.github.io/people/">People</a>) to join or learn more about our network and <a href="https://interbayes.github.io/events/">events</a>.  
 
+## Funding
+Our network is funded by the Centre for Integrated Research on Culture and Society (<a href="https://www.uu.se/centrum/circus">Circus</a>).  
 
 
