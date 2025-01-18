@@ -1,11 +1,13 @@
-body.my-dark-mode {
+body {
     background-color: #121212;
     color: #ffffff;
 }
-a.dark-mode {
+
+a {
     color: #bb86fc;
 }
-/* Adjust other elements as needed */
-header.dark-mode, footer.dark-mode {
+
+header, footer {
     background-color: #1e1e1e;
+    color: #ffffff;
 }
