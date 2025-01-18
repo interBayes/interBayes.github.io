@@ -50,14 +50,6 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 
-# theme: minima
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-minima:
-  skin: dark # or auto if you want it to switch with your system settings.
-
-
 # SEO Related
 google_site_verification :
 bing_site_verification   :
