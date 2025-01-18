@@ -19,6 +19,8 @@ sense of real-world data. We thus view Bayesian inference as an interdisciplinar
 ## Funding
 Our network is funded by the Centre for Integrated Research on Culture and Society (<a href="https://www.uu.se/centrum/circus">Circus</a>).  
 
+## Contact
+Contact Sara Hamis (see <a href="https://interbayes.github.io/people/">People</a>) to join or learn more about our network.  
 
 
 
