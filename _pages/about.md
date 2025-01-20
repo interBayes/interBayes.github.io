@@ -16,6 +16,13 @@ We organise networking events, turorials, workshops and conferences on Bayesian 
 Bayesian models are being increasingly used across the social and natural sciences to make
 sense of real-world data. We thus view Bayesian inference as an interdisciplinary node that can unite researchers across fields. Hence the name *interBayes*, where *inter* stands for *interdisciplinary*. 
 
+## Join our email list
+<div style="background-color: #f7f7f7; border: 2px solid gray; padding: 20px; margin: 20px;">
+  Join our email list to keep up to date with our events. 
+  Follow the instructions <a href="https://lists.uu.se/sympa/help/user-subscribe.html">here</a> and join
+  <style="color: darkred;">stat-interbayes@lists.uu.se</strong>.
+</div>
+
 ## Contact
 Contact Sara Hamis (see <a href="https://interbayes.github.io/people/">People</a>) to join or learn more about our network and <a href="https://interbayes.github.io/events/">events</a>.  
 
