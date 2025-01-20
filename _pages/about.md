@@ -23,9 +23,8 @@ Contact Sara Hamis (see <a href="https://interbayes.github.io/people/">People</a
 Our network is funded by the Centre for Integrated Research on Culture and Society (<a href="https://www.uu.se/centrum/circus">Circus</a>).  
 
 ## Join our email list
-<div style="background-color: #f7f7f7; border: 2px solid gray; padding: 20px; margin: 20px;">
+<div style="background-color: #f7f7f7; border: 2px dark red; padding: 20px; margin: 20px;">
   Join our email list to keep up to date with our events. 
   Follow the instructions <a href="https://lists.uu.se/sympa/help/user-subscribe.html">here</a> and join
-  <strong style="color: darkred;">stat-interbayes@lists.uu.se</strong> .
+  stat-interbayes@lists.uu.se.
 </div>
-
