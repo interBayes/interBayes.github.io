@@ -15,6 +15,8 @@ author_profile: true
   <i>More information coming soon.</i> <br>
 </div>
 
+<br>
+
 <div style="background-color: #f7f7f7; border: 2px solid gray; padding: 20px; margin: 20px;">
   <strong style="color: darkred;">May 7, 2025: Introductory Stan tutorial.</strong><br>
   9.00-12.00 at the Circus observatory, Uppsala University. <br>
