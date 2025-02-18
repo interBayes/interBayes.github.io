@@ -16,7 +16,7 @@ author_profile: true
 </div>
 
 <div style="background-color: #f7f7f7; border: 2px solid gray; padding: 20px; margin: 20px;">
-  <strong style="color: darkred;">May 7, 2025: Introductory Stan tutorial.</strong><br>
+  <strong style="color: darkred;">April, 2025: Introductory Stan tutorial.</strong><br>
   9.00-12.00 at the Circus observatory, Uppsala University. <br>
   A hands-on tutorial on how to get started with Stan.   <br>
   <i>More information coming soon. Sign up to our email list (see front page) to get all updates.</i><br>
