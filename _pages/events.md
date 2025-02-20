@@ -23,20 +23,9 @@ To bounce ideas and explore possible collaborations, we invite participants to c
 - **A.** Pitches a research problem that could potentially be catalyzed by Bayesian inference, or  
 - **B.** Presents an ongoing Bayesian inference project.  
 
-Talks should be approximately **five minutes long** and easily understandable to an interdisciplinary audience. In this matchmaking event, we aim to connect researchers across disciplines who work at Uppsala University and use, or want to start using, Bayesian methods or the probabilistic programming framework **Stan**.  
+Talks should be approximately **five minutes long** and easily understandable to an interdisciplinary audience. In this matchmaking event, we aim to connect researchers across disciplines who work at Uppsala University and use, or want to start using, Bayesian methods or the probabilistic programming framework Stan.  
 
-The event will comprise a series of short talks and ample time to connect with other researchers over structured coffee breaks.  
-
-## Call for Short Talks  
-
-To bounce ideas and explore possible collaborations, we invite participants to contribute a short talk that either:  
-
-- **A.** Pitches a research problem that could potentially be catalyzed by Bayesian inference, or  
-- **B.** Presents an ongoing Bayesian inference project.  
-
-Talks should be approximately **five minutes long** and easily understandable to an interdisciplinary audience. No slides.
-
-A detailed schedule will be sent out closer to the event day.  
+The event will comprise a series of short talks and ample time to connect with other researchers over structured coffee breaks.   
 
 ### Sign-Up Details  
 
@@ -45,7 +34,7 @@ To sign up, please fill out this form by **March 22nd**:
 
 **Places are limited.**  
 
-For questions about the event, contact **Sara Hamis** at [sara.hamis@it.uu.se](mailto:sara.hamis@it.uu.se).  
+For questions about the event, contact [sara.hamis@it.uu.se](mailto:sara.hamis@it.uu.se).  
 
 A detailed schedule will be sent out closer to the event day.  
 
