@@ -12,21 +12,26 @@ author_profile: true
   <strong style="color: darkred;">April 2, 2025: Bayesian matchmaking.</strong><br>
  <p> 13.00-16.00 at the Circus observatory, Uppsala University. </p>
   
- <p>
+<p>
 In this matchmaking event, we aim to connect researchers across disciplines who work at Uppsala University and use, or want to start using, Bayesian methods or the probabilistic programming framework Stan.  
+The event will comprise a series of short talks and ample time to connect with other researchers over structured coffee breaks. 
+</p>
 
-The event will comprise a series of short talks and ample time to connect with other researchers over structured coffee breaks. To bounce ideas and explore possible collaborations, we invite participants to contribute a short talk that either:  
+<p>
+To bounce ideas and explore possible collaborations, we invite participants to contribute a short talk that either:  
 
 * Pitches a research problem that could potentially be catalyzed by Bayesian inference, or  
 * Presents an ongoing Bayesian inference project. 
- </p>
+</p>
 
- <p>
+<p>
 Talks should be approximately five minutes long and easily understandable to an interdisciplinary audience.
+</p>
 
+<p>
 To sign up, please fill out this form by March 22nd: (https://doit.medfarm.uu.se/bin/kurt3/kurt/8881986)  
 _Places are limited._ 
- </p>
+</p>
  
 </div>
 
