@@ -30,7 +30,7 @@ Talks should be approximately five minutes long and easily understandable to an 
 
 <p>
 To sign up, please fill out this form by March 22nd: (https://doit.medfarm.uu.se/bin/kurt3/kurt/8881986)  
-_Places are limited._ 
+__Places are limited.__
 </p>
  
 </div>
