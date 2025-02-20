@@ -18,10 +18,10 @@ The event will comprise a series of short talks and ample time to connect with o
 </p>
 
 <p>
-To bounce ideas and explore possible collaborations, we invite participants to contribute a short talk that either:  
+To bounce ideas and explore possible collaborations, we invite participants to contribute a short talk that either:  <br>
 
-* Pitches a research problem that could potentially be catalyzed by Bayesian inference, or  
-* Presents an ongoing Bayesian inference project. 
+A. Pitches a research problem that could potentially be catalyzed by Bayesian inference, or  <br>
+B.  Presents an ongoing Bayesian inference project. <br>
 </p>
 
 <p>
