@@ -20,8 +20,8 @@ The event will comprise a series of short talks and ample time to connect with o
 <p>
 To bounce ideas and explore possible collaborations, we invite participants to contribute a short talk that either:  
 
-* Pitches a research problem that could potentially be catalyzed by Bayesian inference, or  
-* Presents an ongoing Bayesian inference project. 
+- Pitches a research problem that could potentially be catalyzed by Bayesian inference, or  
+- Presents an ongoing Bayesian inference project. 
 </p>
 
 <p>
@@ -30,7 +30,7 @@ Talks should be approximately five minutes long and easily understandable to an 
 
 <p>
 To sign up, please fill out this form by March 22nd: (https://doit.medfarm.uu.se/bin/kurt3/kurt/8881986)  
-__Places are limited.__
+*Places are limited.*
 </p>
  
 </div>
