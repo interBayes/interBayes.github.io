@@ -17,8 +17,8 @@ In this matchmaking event, we aim to connect researchers across disciplines who 
 
 The event will comprise a series of short talks and ample time to connect with other researchers over structured coffee breaks. To bounce ideas and explore possible collaborations, we invite participants to contribute a short talk that either:  
 
-A. Pitches a research problem that could potentially be catalyzed by Bayesian inference, or  
-B. Presents an ongoing Bayesian inference project. 
+* Pitches a research problem that could potentially be catalyzed by Bayesian inference, or  
+* Presents an ongoing Bayesian inference project. 
  </p>
 
  <p>
