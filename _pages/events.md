@@ -20,7 +20,7 @@ A. Pitches a research problem that could potentially be catalyzed by Bayesian in
 B. Presents an ongoing Bayesian inference project. 
 <br>
 
-Talks should be approximately five minutes long and easily understandable to an interdisciplinary audience. In this matchmaking event, we aim to connect researchers across disciplines who work at Uppsala University and use, or want to start using, Bayesian methods or the probabilistic programming framework Stan.  <br>
+Talks should be approximately five minutes long and easily understandable to an interdisciplinary audience. <br>
 
 To sign up, please fill out this form by March 22nd: (https://doit.medfarm.uu.se/bin/kurt3/kurt/8881986)  
 _Places are limited._ 
