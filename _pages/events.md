@@ -73,7 +73,6 @@ To sign up, please fill out <a href="https://doit.medfarm.uu.se/bin/kurt3/kurt/8
   <strong style="color: darkred;">April 8, 2025: Introductory Stan tutorial.</strong><br>
   9.00-12.00 at the Circus observatory, Uppsala University. <br>
   A hands-on tutorial on how to get started with Stan.   <br>
-  <i>More information coming soon. Sign up to our email list (see front page) to get all updates.</i><br>
 </div>
 
 
