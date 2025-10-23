@@ -84,11 +84,4 @@ B.  Presents an ongoing Bayesian inference project. <br>
 <p>
 Talks should be approximately five minutes long and easily understandable to an interdisciplinary audience.
 </p>
-
-<p>
-To sign up, please fill out <a href="https://doit.medfarm.uu.se/bin/kurt3/kurt/8881986">this form</a> by March 22nd. <br>
-  
-<i>Places are limited.</i>
-</p>
- 
 </div>
