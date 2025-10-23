@@ -9,8 +9,6 @@ author_profile: true
 
 
 
-
-
 <div style="background-color: #f7f7f7; border: 2px solid gray; padding: 20px; margin: 20px;">
   <strong style="color: darkred;">November 12, 2025: interBayes Hackathon.</strong><br>
  <p> 9:00-11:30 at the CIRCUS Old Observatory, Uppsala University. </p>
@@ -20,18 +18,12 @@ This hackathon-style event is designed to bring together interdisciplinary resea
 </p>
 
 <p>
-The event will foster collaboration between researchers from diverse fields. Participants will work in small teams, using Stan to implement Bayesian models and methodologies to investigate real-world life science problems, from proteomics and pharmacology to political science and beyond.
+The event will foster collaboration between researchers from diverse fields. Participants will work in small teams, using Stan to implement Bayesian models and methodologies to investigate real-world life science problems, from proteomics and pharmacology to political science and beyond. We look forward to your participation in what promises to be an exciting and productive event at the intersection of life sciences and statistics!
 </p>
-
-<p>
-We look forward to your participation in what promises to be an exciting and productive event at the intersection of life sciences and statistics!
-</p>
-
 
 <p>
 <i>Email to reserve your place. Places are limited.</i>
 </p>
- 
 </div>
 
 
@@ -42,31 +34,28 @@ We look forward to your participation in what promises to be an exciting and pro
   </strong><br>
  <p> 12:00-13:00, at the CIRCUS Old Observatory, Uppsala University. </p>
 
-
 <p>
 This 1-hour lunch seminar offers an accessible and practical introduction to Bayesian statistics, tailored for researchers who want to begin applying Bayesian modeling in their own work.
 
 The session will cover:
-
-    A practical overview of Bayesian statistics and modeling
-    Approaches to model construction and evaluation
-    Implementing Bayesian models using Stan
+- A practical overview of Bayesian statistics and modeling
+- Approaches to model construction and evaluation
+- Implementing Bayesian models using Stan
+</p>
 
 <p>
 The session will lay the foundation for joining a CIRCUS workshop on how to use Stan for practical research problems later in the fall.
-
 Prerequisites: basic knowledge of statistics and programming is recommended but not necessary.
+</p> 
 
-
+<p>
 Lunch sandwiches and coffee/tea will be served.
-
-</div>
-
-
+</p>
 
 <p>
 To sign up, please fill out <a href="https://doit.medfarm.uu.se/bin/kurt3/kurt/8893095">this form</a>. <br>
-  
+</p>
+</div>
 
 
 <div style="background-color: #f7f7f7; border: 2px solid gray; padding: 20px; margin: 20px;">
